@@ -5,10 +5,10 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-6xl md:text-8xl font-bold text-black mb-6 tracking-tight">
-            Ibrahim <span className="text-gray-500">Alian</span>
+            Ibrahem  <span className="text-gray-500">Alyan </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-2xl mx-auto leading-relaxed">
-            In-house Designer crafting exceptional digital experiences through innovative design solutions
+              
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button 

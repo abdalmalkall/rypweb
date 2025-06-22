@@ -5,7 +5,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg: -8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">Ibrahim Alian</h3>
+            <h3 className="text-2xl font-bold mb-4">Ibrahem Alyan Interior Design</h3>
             <p className="text-gray-400 mb-6 max-w-md">
               Creating exceptional design experiences and empowering the next generation of designers through comprehensive education.
             </p>
@@ -50,7 +50,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-gray-400 text-sm">
-            © 2024 Ibrahim Alian. All rights reserved.
+          © 2025 Ibrahim Alayan Interior Design. All rights reserved.
           </div>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <button className="text-gray-400 hover:text-white text-sm transition-colors duration-200">Privacy Policy</button>

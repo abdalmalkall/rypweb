@@ -42,7 +42,7 @@ const About = () => {
             <div className="aspect-square bg-gradient-to-br from-gray-100 to-gray-200 rounded-2xl overflow-hidden shadow-2xl">
               <img 
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop&crop=face"
-                alt="Ibrahim Alian"
+                alt="Ibrahem Alyan Interior Design"
                 className="w-full h-full object-cover"
               />
             </div>
